@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctadev or known as Cong
-- 👀 I’m interested in front end development in react and interested in doing backend when i mastered the frontend.
-- 🌱 I’m currently learning ... anything related of React front end development
-- 📫 How to reach me ... ctakammy@gmail.com
+- 👀 Im a Professional Full-Stack Web developer from Ontario, Canada. I am proficient in ReactJS and NodeJS.
+- 🌱 I’m currently looking for a job opportunity and have experience in building web app for local bussinesses in my area.
+- 📫 How to reach me ... ctakammy@gmail.com or check out my portfolio @ www.congta.ca
 
 <!---
 ctadev/ctadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
